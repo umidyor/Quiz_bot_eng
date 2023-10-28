@@ -1,4 +1,4 @@
-<h1>Hi👋 this is english ielts vovabulary quiz bot</h1>
+<h1>Hi👋 this is english IELTS vocabulary quiz bot</h1>
 
 
 ## Installation
