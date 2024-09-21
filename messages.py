@@ -8,7 +8,7 @@ def message_handler(update,context):
                                    caption="Very good results")
     if text=="My level🍁":
         get_my_level(update,context)
-        context.bot.send_video(chat_id=update.effective_chat.id,video=open("SigmaRawnieeeGIF (2).gif.mp4","rb"),caption="Siuuuuuuuuuuuuuuuuuuuuuuuuu")
+        context.bot.send_animation(chat_id=update.effective_chat.id,animation=open("mikey.webp","rb"),caption="Siuuuuuuuuuuuuuuuuuuuuuuuuu")
     if text!="My level🍁" and text!="Top 5🏆":
         lang_trans(update,context)
 

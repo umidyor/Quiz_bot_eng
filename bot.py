@@ -97,14 +97,14 @@ def check_answer(update, context):
         query.message.edit_text(text=f"<b>Salom {context.user_data['full_name']} Ushbu botning vazifasi sizning so'z boyligingizni oshirishga yordam berishdir⚡Savol javob uchun ingliz tilini tanlang❗Agarda tarjimondan foydalanmoqchi bo'lsangiz, marhamat istagan tekstingizni yozing😊</b>", parse_mode="html")
     elif user_answer == "no":
         query.message.edit_text(text="Thanks for your participation😊")
-        context.bot.send_animation(chat_id=chat_id, animation=open("sigma.mp4", "rb"))
+        context.bot.send_video(chat_id=chat_id, video=open("ronaldo_go.gif", "rb"))
     elif user_answer == "yes":
         quiz(update, context)
     if user_answer == correct_answer:
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         query.message.edit_text(text=f"<strong>Correct!✅ Your answer is right ({timestamp}). Do you want to continue?</strong>", reply_markup=InlineKeyboardMarkup(continue_button), parse_mode="html")
 
-    if query.data != "uzb" and query.data != "eng" and  user_answer!="yes" and user_answer!="no" and user_answer != correct_answer:
+    if query.data != "uzb" and query.data != "eng" and user_answer!="yes" and user_answer!="no" and user_answer != correct_answer:
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         query.message.edit_text(text=f"Hahaha😅 stupid! Your answer is incorrect. The correct answer is <strong>{correct_answer}</strong> ({timestamp}). Do you want to continue?", reply_markup=InlineKeyboardMarkup(continue_button), parse_mode="html")
 

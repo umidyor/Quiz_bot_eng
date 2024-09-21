@@ -5,6 +5,7 @@ audience-tomoshabinlar
 through-orqali
 performance-ishlash
 accompanied-hamrohlik qilgan
+
 regarded-hisobga olinadi
 creatures-maxluqot
 drow-cho'kmoq
@@ -36,6 +37,7 @@ the most fascinating-eng maftunkor
 aspect-jihati
 traits-xususiyatlar
 
+
 naval-dengiz
 claim-talab
 surely-albatta
@@ -53,6 +55,7 @@ flooding-suv toshqini
 chance-imkoniyat
 manage-boshqarish
 scramble-shitirlash
+
 
 farmland-qishloq xo'jaligi yerlari
 wind-shamol
@@ -78,11 +81,14 @@ scarcity-taqislik
 critical-tanqidiy
 occurs-yuzaga kelmoq
 undoubtedly-shubxasiz
+
 spacecraft-kosmik kema
 apparently-aftidan
 prove-isbotlash
 theory-nazariya
 surface-sirt
+to attach-biriktirmoq
+
 remain-qoladi
 topic-mavzu
 debate-munozara
@@ -98,6 +104,7 @@ organized-tashkil etilgan
 fade away-yo'qoladi
 exactly-aynan
 mystery-sir
+to attach-biriktirmoq
 fictional-xayoliy
 extraordinary abilities-favqulotda qobiliyatlar
 attracted-jalb qilgan
@@ -108,9 +115,355 @@ skin-teri
 curious-iste'dod
 brought-olib keldi
 notice-xabarnoma
+filmmakers-kino ijodkorlari
+allowed-ruxsat berilgan
+action-harakat
+distinguished-ajralib turadi
+relatively-nisbatan
+indifferent-befarq
+opposed-qarshi chiqdi
+processes-jarayonlar
+improve-yaxshilash
+became-aylandi
+affordable-hamyonbop
+essential-muhim
+industry-sanoat
+audiences-tomoshabinlar
+competition-musobaqa
+until-qadar
+
+seldom-kamdan kam hollarda
+poetry-she'riyat
+feel-his qilish
+impression-taasurot
+substitute-almshtirmoq
+shelter-boshpana
+principle-tamoyili
+genuine-asl
+insistent-qat'iy
+
+scratchy-tirnalgan
+throat-tomoq
+stuffy-tiqilib qolgan
+aches-og'riqlar
+spell-afsun
+misery-baxtsizlik
+cause-sabab
+prescription-retsept
+drugs-dorilar
+available-mavjud
+soon-tez orada
+sets-to'plamlar
+sooner-tezroq
+remedy-chora
+relief-yengillik
+typically-odatda
+gradually-asta sekin
+adults-kattalar
+fever-isitma
+chills-titroq
+severe-og'ir
+reputation-obro'si
+benefical-foydali
+suggesting-taklif qildi
+linked-bog'langan
+sleeplessness-uyqusizlik
+unpleasant-yoqimsiz
+jumpy-shoshqaloq
+due-muddati
+beverage-ichimlik
+reasonable-oqilona
+
+gain-daromad
+whatever-nima bo'lsa ham
+provides-beradi
+admiration-hayrat
+way-yo'l
+lessen-kamaytirish
+verbally-og'zaki
+in the same way-shu tarzda
+keeping-saqlash
+
+discipline-intizom
+deal-bitim
+challenge-qiyinchilik
+instance-misol
+punishing-jazolash
+preventing-oldini olish
+establish-o'rnatish
+rules-qoidalar
+refuse-rad qilish
+encouraging-rag'batlantiruvchi
+feedback-fikr mulohaza
+attracts-tortadi
+yell-baqirmoq
+obey-itaot et
+utter-tallafuz qilish
+increasing-ortib boradi
+treat-davolash
+harshly as possible-iloji boricha qattiqroq
+unconditionally-shartsiz
+restricting-cheklash
+
+over-ustida,so'nggi
+quality-sifat
+deteriorated-yomonlashgan
+near-yaqin
+constantly-doimiy
+assailed-hujum qilgan
+increasingly-tobora,borgan sari
+jet-reaktiv
+landing-qo'nish
+flats high rise-ko'p qavatli kvartiralar
+breeding-naslchilik
+construction-qurilish
+expense-xarajat
+growing-o'sib borayotgan
+urban population-shahar aholisi
 
 
+taught-o'rgatgan
+intelligence-razvedka,aql
+except-bundan tashqari
+observe carefully-diqqat bilan kuzating
+habits-odatlar
+performed-amalga oshirildi
+internal-ichki
+instead-o'rniga
+trust-ishonch
+obvious-aniq
+satisfy-qondirish
 
+forerunners-yetakchi,oldingi
+prophets-payg'ambarlar
+rebel-isyonchi
+against-qarshi
+existing-mavjud
+conceptions-tushunchalar
+religion-din
+marriage-nikoh
+government-hukumat
+propounded-ilgari surgan
+evil-yomon
+brought up-tarbiyalangan
+truth-haqiqat
+condemne-hukm qilingan
+average-o'rtacha
+imposed-yuklangan
+myths-afsonalar
+fairy stories-ertaklar
 
+demand-talab
+decade-o'n yil
+generating-hosil qiluvchi
+capacity-sig'im
+increase-kattalashtirish; ko'paytirish
+fossil-qazilma
+fuels-yoqilg'ilar
+supply-ta'minlash
+nearly-deyarli
+expelling coal-ko'mirni chiqarib yuborish
+responsible-ma'sul
+considered-hisobga olinadi
+alternative-muqobil
 
+researchers-tadqiqotchilar
+demonstrate-namoyish qilish
+pleasure-zavq
+approach-yondashuv
+recent findings-so'nggi topilmalar
+retirement-iste'fo
+sedentary-harakatsiz
+initiates-boshlaydi
+aggravates-og'irlashtiradi
+according-ko'ra
+adults-kattalar
+preferably-afzal
+implied-nazarda tutilgan
+deteriorates-yomonlashadi
+considerably-sezilarli darajada
+infer-xulosa chiqarish
 
+carbon-uglerod
+substance-modda
+hole-teshik
+boolshit-bema'nilik
+kidding-hazil
+trap-tuzoq
+absorbed-so'riladi
+
+exploration-kashfiyot
+beneath-ostida
+measures- chora tadbirlar
+denser-zichroq
+attraction-diqqatga sazovor joy
+
+hardly-zo'rg'a
+mixture-aralashmasi
+surround- o'rab olish
+harldy ever notice-deyarli sezmaydi
+realize-anglash
+smog-tutun
+fog-tuman
+depend-bog'liq
+many ways-ko'p usullar
+breathe-nafas ol
+barrier-to'siq
+burning-yonayotgan
+burn-kuydirmoq
+ray-nur
+reach-erish
+
+aware-xabardor
+unaware-bexabar
+completely-butunlay
+tend-moyil
+suspect-shubhali
+condition-holat
+confront-duch kelmoq
+
+moisture-namlik
+rare-kamdan kam
+even-hatto
+violent storms-kuchli bo'ronlar
+thickest-qalin
+increase-ko'paytirish;orttirish
+
+nucleus-yadro
+together-birga
+put together-birga qo'yish
+usable-foydalanish mumkin
+profound-chuqur
+
+dissolved-erigan
+pressure-bosim
+tremendous-ulkan
+thrust-surish,zarba
+sufficient-yetarli
+to bring-olib kelmoq
+pumping-nasos
+
+natural born leader-tug'ma yetakchi
+tailored for greatness
+whispered-pichirladi
+
+Czech republic-chex respublikasi
+official-rasmiy
+highly-juda
+foreigners-chet elliklar
+heartily-chin dildan
+appreciate-qadrlash
+discouragement-tushkunlikka tushirish
+accustomed-odatlangan
+stumble-qoqilish
+among-orasida
+compulsory-majburiy
+curriculum-o'quv dasturi
+steadily-barqaror
+especially-ayniqsa
+wiped off-o'chirildi
+
+religion-din
+based-asoslangan
+largely-asosan
+teachings-ta'limotlar
+recounted-aytib berdi
+belief-e'tiqod
+supreme-oliy
+sacred-muqaddas
+law-qonun
+observances-kuzatishlar
+principal-asosiy
+worship-sajda qilish
+priests-ruhoniylar
+distribution-tarqatish
+throughout-davomida
+
+term-muddat
+castle-qal'a
+most commonly-keng tarqalgan
+applied-qo'llaniladi
+fortress-qal'a
+belonging-tegishli
+nobles-zodagonlar
+mound-tepalik
+stood-turdi
+courtyard-hovli
+surrond-o'rab olish
+fence-panjara
+ditch-ariq
+accommodation-turar joy
+whole-butun
+wall-devor
+fortifications-istehkomlar
+elaborate-ishlab chiqish
+withstand-chidash
+
+patron-homiy
+dedicating-bag'ishlash
+climax-avj nuqtasi
+agreement-shartnoma
+ever since-shundan buyon
+peace-tinchlik
+flow-oqim
+maritime traffic-dengiz transporti
+depth-chuqurlik
+except-bundan mustasno
+
+Viking descent-Viking avlodidan
+invaded-bostirib kirgan
+conquer-zabt etish
+event-voqea
+political order-siyosiy tartib
+coast-qirg'oq
+Mediterranean Sea-O'rtayer dengizi
+knight-ritsar
+poison-zahar
+poisonous-zaharli
+bitten-tishlagan
+
+fewer-kamroq
+dozen-o'nlab
+disability-nogironlik
+limb-a'zo
+scarring-chandiq
+risk-xavf
+purpose-maqsad
+wound-yara
+bleed-qon ketish
+precautions-ehtiyot choralari
+defined-belgilangan
+
+affairs-ishlar
+church-cherkov
+rise-ko'tarilish
+tour-sayohat
+storey-qavatli
+furnishings-jihozlar
+frayed-eskirgan
+tips-maslahatlar
+promptly-zudlik bilan
+fried-qovurilgan
+laid-qo'ydi
+pieces-dona
+
+civil-fuqarolik
+petty-mayda
+plenty-ko'p
+proof-dalil
+mightier-kuchliroq
+sword-qilich
+
+cargo-yuk
+luxury-hashamat
+compete-raqobat qilish
+unfortunate-baxtsiz
+spite-g'azab
+flammable-yonuvchan
+flames-alangalar
+escape-qochish
+
+pleasure-zavq
+lecture-ma'ruza
+peak-cho'qqisi
+ascent-ko'tarilish
